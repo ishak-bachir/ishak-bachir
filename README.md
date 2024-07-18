@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ishak-bachir
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning react.js
+- 📫 How to reach me: my discord username is 4_qq
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: nothing :>
