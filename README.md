@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://rishavchanda.io)
 [![Ishak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishak-bachir)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Bacherchrif Ishak</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
