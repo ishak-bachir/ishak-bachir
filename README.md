@@ -1,4 +1,4 @@
-[![Ishak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishak-bachir)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <h1 align="center">Hi 👋, I'm Bacherchrif Ishak</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <img align="right"alt="Coding gif" width="400" src="https://c.tenor.com/XAZNF7AwaSEAAAAC/tenor.gif">
