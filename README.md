@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [ishak-dev.web.app](ishak-dev.web.app)
+- 👨‍💻 All of my projects are available at [ishak-dev.web.app](https://ishak-dev.web.app)
 
 - 💬 Ask me about **react**
 
