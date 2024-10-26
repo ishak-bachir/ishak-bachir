@@ -1,6 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bacherchrif Ishak</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right"alt="Coding gif" width="400" src="https://c.tenor.com/XAZNF7AwaSEAAAAC/tenor.gif">
 
 - 🌱 I’m currently learning **Data structures & Algorithms**
