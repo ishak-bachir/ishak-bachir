@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishak-bachir&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishak-bachir&layout=compact&langs_count=20&bg_color=00000000&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishak-bachir&layout=compact&langs_count=10&theme=transparent)
 <h1 align="center">Hi 👋, I'm Bacherchrif Ishak</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <img align="right"alt="Coding gif" width="400" src="https://c.tenor.com/XAZNF7AwaSEAAAAC/tenor.gif">
