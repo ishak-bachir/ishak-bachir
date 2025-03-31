@@ -1,14 +1,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishak-bachir&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishak-bachir&layout=compact&langs_count=10&theme=transparent)
 <h1 align="center">Hi 👋, I'm Bacherchrif Ishak</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">A passionate fullstack developer from Algeria</h3>
 <img align="right"alt="Coding gif" width="400" src="https://c.tenor.com/XAZNF7AwaSEAAAAC/tenor.gif">
 
 - 🌱 I’m currently learning **Assembly x86**
 
 - 👨‍💻 All of my projects are available at [ishak-dev.web.app](https://ishak-dev.web.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **ishakbachir22@gmail.com**
 
